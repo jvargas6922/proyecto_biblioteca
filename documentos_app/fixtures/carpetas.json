@@ -1,0 +1,42 @@
+[
+    {
+        "model": "documentos_app.carpeta",
+        "pk":1,
+        "fields":{
+            "carpeta":"carpeta 1",
+            "id_documento":1
+        }
+    },
+    {
+        "model": "documentos_app.carpeta",
+        "pk":2,
+        "fields":{
+            "carpeta":"carpeta 2",
+            "id_documento":2
+        }
+    },
+    {
+        "model": "documentos_app.carpeta",
+        "pk":3,
+        "fields":{
+            "carpeta":"carpeta 3",
+            "id_documento":3
+        }
+    },
+    {
+        "model": "documentos_app.carpeta",
+        "pk":4,
+        "fields":{
+            "carpeta":"carpeta 4",
+            "id_documento":4
+        }
+    },
+    {
+        "model": "documentos_app.carpeta",
+        "pk":5,
+        "fields":{
+            "carpeta":"carpeta 5",
+            "id_documento":5
+        }
+    }
+]
